@@ -1,0 +1,8 @@
+C:\Users\ayoub\source\repos\EventsHomeworkApp\EventsHomework\bin\Debug\EventsHomework.exe.config
+C:\Users\ayoub\source\repos\EventsHomeworkApp\EventsHomework\bin\Debug\EventsHomework.exe
+C:\Users\ayoub\source\repos\EventsHomeworkApp\EventsHomework\bin\Debug\EventsHomework.pdb
+C:\Users\ayoub\source\repos\EventsHomeworkApp\EventsHomework\obj\Debug\EventsHomework.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\EventsHomeworkApp\EventsHomework\obj\Debug\EventsHomework.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayoub\source\repos\EventsHomeworkApp\EventsHomework\obj\Debug\EventsHomework.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\EventsHomeworkApp\EventsHomework\obj\Debug\EventsHomework.exe
+C:\Users\ayoub\source\repos\EventsHomeworkApp\EventsHomework\obj\Debug\EventsHomework.pdb
